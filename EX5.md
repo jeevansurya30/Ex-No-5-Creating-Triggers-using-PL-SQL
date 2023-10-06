@@ -67,8 +67,8 @@ BEGIN
 END;
 /
 -- Insert the values in the employee table
-insert into employed values(1,'Shakthi','IT',1000000);
-insert into employed values(2,'Suji','SALES',500000);
+insert into employed values(1,'Levi','IT',1000000);
+insert into employed values(2,'Eren','SALES',500000);
 
 -- Update the salary of an employee
 UPDATE employedd
