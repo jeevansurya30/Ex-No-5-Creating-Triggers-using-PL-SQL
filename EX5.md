@@ -30,8 +30,8 @@ CREATE TABLE sal_log (
   update_date DATE
 );
 -- Insert the values in the employee table
-insert into employedd values(1,'Shakthi','IT',1000000);
-insert into employedd values(2,'Suji','SALES',500000)
+insert into employedd values(1,'Levi','IT',1000000);
+insert into employedd values(2,'Eren','SALES',500000)
 ```
 ### Create employee table
 ```sql
@@ -81,7 +81,8 @@ SELECT * FROM employedd;
 SELECT * FROM sal_logg;
 ```
 ### Output:
-![image](https://github.com/jeevansurya30/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/129417865/a145a8fc-de6e-40d9-9779-05c6e8ab3265)
+![image](https://github.com/jeevansurya30/Ex-No-5-Creating-Triggers-using-PL-SQL/assets/129417865/579272b8-0ef4-45cb-85cf-ca538913d00b)
+
 
 
 ### Result:
